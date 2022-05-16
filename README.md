@@ -1,2 +1,2 @@
 # aula-javascript-assincrono
-Aula de javascript assíncrono
+Atividade da aula de javascript assíncrono
